@@ -19,11 +19,11 @@ If one has correctly downloaded the necessary code and has access to what has be
 
 
 ## Screenshot
-![Screenshot](./Assets/screenshot.png) **COMING SOON**
+![Screenshot](./Assets/screenshot.png)
 
 
 ## Links
-Video demo of Application: **COMING SOON**
+Video demo of Application: https://youtu.be/wYepS2jfCQ0
 Github: https://github.com/mcalcagno47/E-Commerce_Back_End 
 
 The site: Not applicable in this situation, as it is running locally
